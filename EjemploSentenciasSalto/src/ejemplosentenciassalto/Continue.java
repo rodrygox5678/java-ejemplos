@@ -14,7 +14,7 @@ public class Continue {
                 
             }
             
-            System.out.println("El numero es " + i);
+            System.out.println("El numero es(continue) " + i);
             
             
         }
